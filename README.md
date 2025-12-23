@@ -1,2 +1,2 @@
-# EEG-Functional-Connectome-Analysis-for-Propofol-Induced-Unconsciousness
-This MATLAB project provides a complete pipeline for EEG-based functional connectivity and network analysis to study the neural mechanisms of propofol-induced unconsciousness.It includes preprocessing, source reconstruction, ROI extraction, functional connectivity estimation, network topology analysis, and machine learning–based classification between conscious and unconscious states.
+# Neurophysiological Connectomic Signatures of Consciousness during Propofol-Induced General Anesthesia
+This MATLAB Scripts provides a complete pipeline for EEG-based functional connectivity and network analysis to study the neural mechanisms of propofol-induced unconsciousness.It includes preprocessing, source reconstruction, ROI extraction, functional connectivity estimation, network topology analysis, and machine learning–based classification between conscious and unconscious states.
